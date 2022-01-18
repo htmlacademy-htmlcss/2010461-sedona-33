@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Артём Леонов](https://up.htmlacademy.ru/htmlcss/33/user/2010461).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов](https://up.htmlacademy.ru/profession/frontender/13/htmlcss/user/17860).
 
 ---
 
